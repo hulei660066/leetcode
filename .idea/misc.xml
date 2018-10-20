@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../akka-quickstart-scala" value="1495836878000" />
+        <entry key="$USER_HOME$/Test/AkkaTest" value="1503474215000" />
+        <entry key="$USER_HOME$/Test/activator-akka-docker" value="1499940289000" />
+        <entry key="$USER_HOME$/Test/akka-http-slick-guice" value="1500541904000" />
+        <entry key="$USER_HOME$/Test/akka-microservice" value="1502955519000" />
+        <entry key="$USER_HOME$/Test/akka-persistence-sql-async" value="1500537959000" />
+        <entry key="$USER_HOME$/Test/akka-samples/akka-sample-cluster-scala" value="1496740431000" />
+        <entry key="$USER_HOME$/Test/akka-samples/akka-sample-distributed-data-scala" value="1496740431000" />
+        <entry key="$USER_HOME$/Test/akka-samples/akka-sample-multi-node-scala" value="1496740431000" />
+        <entry key="$USER_HOME$/Test/akka-samples/akka-sample-persistence-scala" value="1496740431000" />
+        <entry key="$USER_HOME$/Test/akka-samples/akka-sample-remote-scala" value="1496740431000" />
+        <entry key="$USER_HOME$/Test/akka-typed-blog" value="1497431456000" />
+        <entry key="$USER_HOME$/Test/akkaflow" value="1502963430000" />
+        <entry key="$USER_HOME$/Test/demo-akka-cluster" value="1496720486000" />
+        <entry key="$USER_HOME$/Test/scala-akka-http-mysql-template" value="1500538975000" />
+        <entry key="$USER_HOME$/Test/squbs" value="16530678274000" />
+        <entry key="$USER_HOME$/Test/squbs/samples/bottles/bottlesvc" value="1502955601000" />
+        <entry key="$USER_HOME$/Test/squbs/samples/pubsub" value="3005731035000" />
+        <entry key="$USER_HOME$/Test/squbs/samples/pubsub/pubsubsvc" value="1502949213000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
